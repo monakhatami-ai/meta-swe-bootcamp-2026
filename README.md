@@ -1,2 +1,3 @@
 # meta-swe-bootcamp-2026
-Elite Meta SWE Interview Preparation – Algorithms, Patterns, Performance
+Meta SWE Bootcamp – 100 Day Elite Preparation  
+Focus: Algorithmic Mastery • Engineering Judgment • Interview Performance  
